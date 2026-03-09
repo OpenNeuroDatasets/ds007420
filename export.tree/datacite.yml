@@ -1,0 +1,63 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Gao, Yuanyuan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Rogers, De’Ja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: von Lühmann, Alexander
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Ortega-Martinez, Antonio
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Boas, David
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Yücel, Meryem
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+    creators:
+      - name: Gao, Yuanyuan
+        nameType: Personal
+      - name: Rogers, De’Ja
+        nameType: Personal
+      - name: von Lühmann, Alexander
+        nameType: Personal
+      - name: Ortega-Martinez, Antonio
+        nameType: Personal
+      - name: Boas, David
+        nameType: Personal
+      - name: Yücel, Meryem
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

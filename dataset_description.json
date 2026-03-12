@@ -19,7 +19,9 @@
     "EthicsApprovals": [
         "the Institutional Review Board of Boston University"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1117/1.nph.10.2.025007"
+    ],
     "DatasetDOI": "doi:10.18112/openneuro.ds007420.v1.0.1",
     "BSFNIRSHeader": {
         "Auxiliary": [

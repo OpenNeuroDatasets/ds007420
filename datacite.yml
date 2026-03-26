@@ -3,42 +3,42 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Gao, Yuanyuan
+      - name: Yuanyuan Gao
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Rogers, De’Ja
+      - name: De'Ja Rogers
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: von Lühmann, Alexander
+      - name: Alexander von Lühmann
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Ortega-Martinez, Antonio
+      - name: Antonio Ortega-Martinez
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Boas, David
+      - name: David A. Boas
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Yücel, Meryem
+      - name: Meryem A. Yücel
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -46,17 +46,17 @@ data:
         contributorType: Researcher
         order: 6
     creators:
-      - name: Gao, Yuanyuan
+      - name: Yuanyuan Gao
         nameType: Personal
-      - name: Rogers, De’Ja
+      - name: De'Ja Rogers
         nameType: Personal
-      - name: von Lühmann, Alexander
+      - name: Alexander von Lühmann
         nameType: Personal
-      - name: Ortega-Martinez, Antonio
+      - name: Antonio Ortega-Martinez
         nameType: Personal
-      - name: Boas, David
+      - name: David A. Boas
         nameType: Personal
-      - name: Yücel, Meryem
+      - name: Meryem A. Yücel
         nameType: Personal
     descriptions:
       - description: N/A

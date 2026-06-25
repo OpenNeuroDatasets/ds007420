@@ -3,34 +3,6 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Rogers, De’Ja
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 1
-      - name: Boas, David
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 2
-      - name: Yücel, Meryem
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
-      - name: Gao, Yuanyuan
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
       - name: Shibo Zhou
         givenName: ''
         familyName: ''
@@ -40,8 +12,39 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 1
+      - name: Rogers, De’Ja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Boas, David
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Yücel, Meryem
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Gao, Yuanyuan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 5
     creators:
+      - name: Shibo Zhou
+        nameType: Personal
+        nameIdentifiers: *ref_0
       - name: Rogers, De’Ja
         nameType: Personal
       - name: Boas, David
@@ -50,9 +53,6 @@ data:
         nameType: Personal
       - name: Gao, Yuanyuan
         nameType: Personal
-      - name: Shibo Zhou
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract

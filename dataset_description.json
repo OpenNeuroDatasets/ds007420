@@ -1,5 +1,5 @@
 {
-    "Name": "A Light Weight Multi-Distance fNIRS Dataset for Ball-Squeezing Task and Purposeful Motion Artifact Creation Task",
+    "Name": "Open-access Multi-Distance fNIRS Dataset Generated During Ball-Squeezing and Motion-Artifact Induction Tasks",
     "BIDSVersion": "1.7.1",
     "DatasetType": "raw",
     "License": "CC0",

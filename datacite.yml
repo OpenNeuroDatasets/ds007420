@@ -30,13 +30,6 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 3
-      - name: Yuanyuan Gao
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
       - name: MERYEM YUCEL
         givenName: ''
         familyName: ''
@@ -45,6 +38,13 @@ data:
           - nameIdentifier: https://orcid.org/0000-0002-4291-2847
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 4
+      - name: Yuanyuan Gao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
         contributorType: Researcher
         order: 5
     creators:
@@ -56,11 +56,11 @@ data:
       - name: David Boas
         nameType: Personal
         nameIdentifiers: *ref_1
-      - name: Yuanyuan Gao
-        nameType: Personal
       - name: MERYEM YUCEL
         nameType: Personal
         nameIdentifiers: *ref_2
+      - name: Yuanyuan Gao
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract

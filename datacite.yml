@@ -37,6 +37,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
+      - name: MERYEM YUCEL
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-4291-2847
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 5
     creators:
       - name: Shibo Zhou
         nameType: Personal
@@ -48,6 +58,9 @@ data:
         nameIdentifiers: *ref_1
       - name: Yuanyuan Gao
         nameType: Personal
+      - name: MERYEM YUCEL
+        nameType: Personal
+        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract

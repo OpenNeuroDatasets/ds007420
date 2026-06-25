@@ -1,0 +1,66 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Shibo Zhou
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0009-8870-2157
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: De’Ja Rogers
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: David Boas
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-6709-7711
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 3
+      - name: MERYEM YUCEL
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-4291-2847
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 4
+      - name: Yuanyuan Gao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+    creators:
+      - name: Shibo Zhou
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: De’Ja Rogers
+        nameType: Personal
+      - name: David Boas
+        nameType: Personal
+        nameIdentifiers: *ref_1
+      - name: MERYEM YUCEL
+        nameType: Personal
+        nameIdentifiers: *ref_2
+      - name: Yuanyuan Gao
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

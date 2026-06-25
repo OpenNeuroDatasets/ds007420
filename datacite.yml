@@ -13,45 +13,27 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
-      - name: Rogers, De’Ja
+      - name: De’Ja Rogers
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Boas, David
+      - name: Yuanyuan Gao
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Yücel, Meryem
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Gao, Yuanyuan
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
     creators:
       - name: Shibo Zhou
         nameType: Personal
         nameIdentifiers: *ref_0
-      - name: Rogers, De’Ja
+      - name: De’Ja Rogers
         nameType: Personal
-      - name: Boas, David
-        nameType: Personal
-      - name: Yücel, Meryem
-        nameType: Personal
-      - name: Gao, Yuanyuan
+      - name: Yuanyuan Gao
         nameType: Personal
     descriptions:
       - description: N/A

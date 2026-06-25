@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Rogers, De’Ja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Boas, David
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Yücel, Meryem
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Gao, Yuanyuan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Rogers, De’Ja
+        nameType: Personal
+      - name: Boas, David
+        nameType: Personal
+      - name: Yücel, Meryem
+        nameType: Personal
+      - name: Gao, Yuanyuan
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

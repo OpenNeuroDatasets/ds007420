@@ -20,13 +20,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Yuanyuan Gao
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
       - name: David Boas
         givenName: ''
         familyName: ''
@@ -36,6 +29,13 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 3
+      - name: Yuanyuan Gao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 4
     creators:
       - name: Shibo Zhou
@@ -43,11 +43,11 @@ data:
         nameIdentifiers: *ref_0
       - name: De’Ja Rogers
         nameType: Personal
-      - name: Yuanyuan Gao
-        nameType: Personal
       - name: David Boas
         nameType: Personal
         nameIdentifiers: *ref_1
+      - name: Yuanyuan Gao
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract

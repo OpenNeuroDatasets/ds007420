@@ -8,7 +8,7 @@ Shibo Zhou, De'Ja Rogers, David A. Boas, Meryem A. Yücel, Yuanyuan Gao
 
 ## Citation
 
-Zhou, S., Rogers, D., Boas, D. A., Yücel, M. A., & Gao, Y. Multi-Distance fNIRS Dataset Generated During Ball-Squeezing and Motion-Artifact Induction Tasks. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds007420.v1.0.4
+Zhou, S., Rogers, D., Boas, D. A., Yücel, M. A., & Gao, Y. Multi-Distance fNIRS Dataset Generated During Ball-Squeezing and Motion-Artifact Induction Tasks. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds007420.v1.0.5
 
 ## License
 
